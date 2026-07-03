@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.2",
     "releaseDate": "2026-07-03",
     "isCritical": false,
-    "description": "Исправлены ошибки с сохранением заказ-нарядов\nДобавлена запись на ремонт\nУлучшена производительность",
-    "downloadUrl": "https://github.com/GoDDeSeS/autoservice-updates/releases/download/1.1/AutoService_Setup_v1.1.exe"
+    "description": "Улучшена общая производительность",
+    "downloadUrl": "https://github.com/GoDDeSeS/autoservice-updates/releases/download/1.1/AutoService_Setup_v1.2.exe"
 }
