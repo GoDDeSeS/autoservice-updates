@@ -3,5 +3,5 @@
     "releaseDate": "2025-06-30",
     "isCritical": false,
     "description": "Исправлены ошибки с сохранением заказ-нарядов\nДобавлена запись на ремонт\nУлучшена производительность",
-    "downloadUrl": "https://github.com/GoDDeSeS/autoservice-updates/releases/download/v1.0.1/AutoServiceWorkOrdersUpdate.zip"
+    "downloadUrl": "https://github.com/GoDDeSeS/autoservice-updates/releases/download/v1.1/AutoService_Setup_v1.1.exe"
 }
