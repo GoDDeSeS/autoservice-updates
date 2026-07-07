@@ -1,7 +1,7 @@
 {
-    "version": "1.2.2",
-    "releaseDate": "2026-07-05",
+    "version": "1.3",
+    "releaseDate": "2026-07-07",
     "isCritical": false,
-    "description": "Исправлено отображение объектов",
-    "downloadUrl": "https://github.com/GoDDeSeS/autoservice-updates/releases/download/1.2.2/AutoService_Setup_v1.2.2.exe"
+    "description": "Добавлена возможность редактирование предварительной записи на ремонт",
+    "downloadUrl": "https://github.com/GoDDeSeS/autoservice-updates/releases/download/1.2.2/AutoService_Setup_v1.3.exe"
 }
